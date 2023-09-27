@@ -159,7 +159,7 @@ p, .p, li, .li {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: normal;
-    src: url('fonts/Roboto-Regular.ttf') format('truetype'); 
+    src: url('../font/Roboto-Regular.ttf') format('truetype'); 
   }
   
   body{
